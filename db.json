@@ -1,19 +1,45 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Naruto T-Shirt",
-        "price": 20,
-        "image": "https://via.placeholder.com/300x200?text=Naruto+T-Shirt",
-        "description": "Official Naruto Uzumaki tee."
-      },
-      {
-        "id": 2,
-        "name": "Attack on Titan Manga",
-        "price": 15,
-        "image": "https://via.placeholder.com/300x200?text=AOT+Manga",
-        "description": "Volume 1 of Attack on Titan."
-      }
-    ],
-    "inquiries": []
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Naruto T-Shirt",
+      "price": 20,
+      "image": "https://via.placeholder.com/300x200?text=Naruto+T-Shirt",
+      "description": "Official Naruto Uzumaki tee.",
+      "category": "Shirts"
+    },
+    {
+      "id": 2,
+      "name": "Attack on Titan Manga",
+      "price": 15,
+      "image": "https://via.placeholder.com/300x200?text=AOT+Manga",
+      "description": "Volume 1 of Attack on Titan.",
+      "category": "Manga"
+    },
+    {
+      "id": 3,
+      "name": "Luffy Action Figure",
+      "price": 30,
+      "image": "https://via.placeholder.com/300x200?text=Luffy+Figure",
+      "description": "One Piece Luffy collectible figure.",
+      "category": "Figures"
+    },
+    {
+      "id": 4,
+      "name": "Sailor Moon Cosplay Costume",
+      "price": 50,
+      "image": "https://via.placeholder.com/300x200?text=Sailor+Moon+Costume",
+      "description": "Complete Sailor Moon cosplay outfit.",
+      "category": "Costumes"
+    },
+    {
+      "id": 5,
+      "name": "Demon Slayer T-Shirt",
+      "price": 22,
+      "image": "https://via.placeholder.com/300x200?text=Demon+Slayer+T-Shirt",
+      "description": "Tanjiro Kamado graphic tee.",
+      "category": "Shirts"
+    }
+  ],
+  "inquiries": []
+}
