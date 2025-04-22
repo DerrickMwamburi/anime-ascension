@@ -2,7 +2,9 @@ body {
     font-family: 'Arial', sans-serif;
   }
   
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     font-family: 'Segoe UI', sans-serif;
   }
   
