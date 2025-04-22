@@ -17,7 +17,6 @@ export const postInquiry = async (inquiry) => {
   }
 };
 
-// Placeholder for GET products (for MerchList later)
 export const getProducts = async () => {
   try {
     const response = await fetch(`${API_URL}/products`);
