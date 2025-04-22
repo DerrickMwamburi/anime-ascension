@@ -27,3 +27,14 @@ export const getProducts = async () => {
     return [];
   }
 };
+
+export const getStreamingPlatforms = async () => {
+  try {
+    const response = await fetch(`${API_URL}/streamingPlatforms`);
+    if (!response.ok) throw new Error('Failed to fetch streaming platforms');
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching streaming platforms:', error);
+    return [];
+  }
+};

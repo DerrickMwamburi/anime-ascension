@@ -41,5 +41,28 @@
       "category": "Shirts"
     }
   ],
+  "streamingPlatforms": [
+    {
+      "id": 1,
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com",
+      "image": "https://via.placeholder.com/100x100?text=Crunchyroll",
+      "description": "Watch the latest anime episodes and movies with subtitles."
+    },
+    {
+      "id": 2,
+      "name": "Funimation",
+      "url": "https://www.funimation.com",
+      "image": "https://via.placeholder.com/100x100?text=Funimation",
+      "description": "Stream dubbed and subbed anime, including exclusive titles."
+    },
+    {
+      "id": 3,
+      "name": "Netflix",
+      "url": "https://www.netflix.com",
+      "image": "https://via.placeholder.com/100x100?text=Netflix",
+      "description": "Enjoy a growing library of anime series and movies."
+    }
+  ],
   "inquiries": []
 }

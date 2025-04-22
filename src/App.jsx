@@ -3,6 +3,7 @@ import Header from './components/Header';
 import LandingPage from './pages/LandingPage';
 import MerchPage from './pages/MerchPage';
 import ContactPage from './pages/ContactPage';
+import StreamingPage from './pages/StreamingPage';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/merch" element={<MerchPage />} />
-          <Route path="/streaming" element={<div>Streaming Page (TBD)</div>} />
+          <Route path="/streaming" element={<StreamingPage />} />
           <Route path="/contact" element={<ContactPage />} />
         </Routes>
       </main>
