@@ -1,35 +1,47 @@
+import { useState, useEffect } from 'react';
 import StreamingLink from '../components/StreamingLink';
+import { getStreamingPlatforms } from '../services/api';
 
 function StreamingPage() {
-  // Hardcoded streaming platforms (can be fetched from API later)
-  const streamingPlatforms = [
-    {
-      name: 'Crunchyroll',
-      url: 'https://www.crunchyroll.com',
-      image: 'https://via.placeholder.com/100x100?text=Crunchyroll',
-      description: 'Watch the latest anime episodes and movies with subtitles.',
-    },
-    {
-      name: 'Funimation',
-      url: 'https://www.funimation.com',
-      image: 'https://via.placeholder.com/100x100?text=Funimation',
-      description: 'Stream dubbed and subbed anime, including exclusive titles.',
-    },
-    {
-      name: 'Netflix',
-      url: 'https://www.netflix.com',
-      image: 'https://via.placeholder.com/100x100?text=Netflix',
-      description: 'Enjoy a growing library of anime series and movies.',
-    },
-  ];
+  const [platforms, setPlatforms] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchPlatforms = async () => {
+      setLoading(true);
+      try {
+        const data = await getStreamingPlatforms();
+        setPlatforms(data);
+        setLoading(false);
+      } catch (err) {
+        setError('Failed to load streaming platforms');
+        setLoading(false);
+      }
+    };
+
+    fetchPlatforms();
+  }, []);
+
+  if (loading) {
+    return <div className="text-center py-8">Loading...</div>;
+  }
+
+  if (error) {
+    return <div className="text-center py-8 text-red-600">{error}</div>;
+  }
 
   return (
     <section className="container mx-auto py-8">
       <h2 className="text-3xl font-bold mb-6 text-center">Streaming Recommendations</h2>
       <div className="space-y-4">
-        {streamingPlatforms.map((platform, index) => (
-          <StreamingLink key={index} platform={platform} />
-        ))}
+        {platforms.length > 0 ? (
+          platforms.map((platform) => (
+            <StreamingLink key={platform.id} platform={platform} />
+          ))
+        ) : (
+          <p className="text-center">No streaming platforms available.</p>
+        )}
       </div>
     </section>
   );
