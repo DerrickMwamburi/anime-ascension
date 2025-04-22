@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Naruto T-Shirt",
+        "price": 20,
+        "image": "naruto-shirt.jpg",
+        "description": "Official Naruto Uzumaki tee."
+      },
+      {
+        "id": 2,
+        "name": "Attack on Titan Manga",
+        "price": 15,
+        "image": "aot-manga.jpg",
+        "description": "Volume 1 of Attack on Titan."
+      }
+    ],
+    "inquiries": []
+  }
