@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  a.bg-blue-600:hover {
+    box-shadow: 0 0 10px rgba(37, 99, 235, 0.7);
+  }
