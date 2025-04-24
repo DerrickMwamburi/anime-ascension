@@ -17,7 +17,7 @@ function Login({ onClose }) {
       } else {
         await signInWithEmailAndPassword(auth, email, password);
       }
-      onClose(); // Close the modal after successful login/register
+      onClose();
     } catch (err) {
       setError(err.message);
     }
