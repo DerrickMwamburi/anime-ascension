@@ -5,17 +5,18 @@ import MerchPage from './pages/MerchPage';
 import ContactPage from './pages/ContactPage';
 import StreamingPage from './pages/StreamingPage';
 import CartPage from './pages/CartPage';
+import backgroundImage from './assets/background.jpg';
 
 function App() {
   return (
     <div
       className="flex flex-col min-h-screen bg-gray-100 bg-cover bg-center"
       style={{
-        backgroundImage: `url('https://i.pinimg.com/736x/cf/1a/a5/cf1aa5b3923c79755ba9ae68896e3aeb.jpg')`,
+        backgroundImage: `url(${backgroundImage})`,
       }}
     >
       <Header />
-      <main className="flex-grow">s
+      <main className="flex-grow">
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/merch" element={<MerchPage />} />
