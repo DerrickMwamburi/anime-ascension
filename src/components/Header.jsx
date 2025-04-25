@@ -1,13 +1,17 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
+import { useCart } from '../context/CartContext';
 import { signOut } from 'firebase/auth';
 import { auth } from '../services/firebase';
 import Login from './Login';
 
 function Header() {
   const { user, loading } = useAuth();
+  const { cart } = useCart();
   const [isLoginOpen, setIsLoginOpen] = useState(false);
+
+  const cartItemCount = cart.reduce((total, item) => total + item.quantity, 0);
 
   const handleLogout = async () => {
     try {
@@ -18,12 +22,12 @@ function Header() {
   };
 
   if (loading) {
-    return <div className="bg-gray-900 text-white p-4">Loading...</div>;
+    return <div className="bg-anime-purple text-white p-4">Loading...</div>;
   }
 
   return (
     <>
-      <header className="bg-gray-900 text-white p-4 shadow-md">
+      <header className="bg-anime-purple bg-opacity-90 text-white p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold">Anime Ascension</h1>
           <nav>
@@ -32,7 +36,7 @@ function Header() {
                 <NavLink
                   to="/"
                   className={({ isActive }) =>
-                    isActive ? 'text-blue-400 underline' : 'hover:text-blue-400'
+                    isActive ? 'text-anime-pink underline' : 'hover:text-anime-pink'
                   }
                 >
                   Home
@@ -42,7 +46,7 @@ function Header() {
                 <NavLink
                   to="/merch"
                   className={({ isActive }) =>
-                    isActive ? 'text-blue-400 underline' : 'hover:text-blue-400'
+                    isActive ? 'text-anime-pink underline' : 'hover:text-anime-pink'
                   }
                 >
                   Merch
@@ -52,7 +56,7 @@ function Header() {
                 <NavLink
                   to="/streaming"
                   className={({ isActive }) =>
-                    isActive ? 'text-blue-400 underline' : 'hover:text-blue-400'
+                    isActive ? 'text-anime-pink underline' : 'hover:text-anime-pink'
                   }
                 >
                   Streaming
@@ -62,19 +66,29 @@ function Header() {
                 <NavLink
                   to="/contact"
                   className={({ isActive }) =>
-                    isActive ? 'text-blue-400 underline' : 'hover:text-blue-400'
+                    isActive ? 'text-anime-pink underline' : 'hover:text-anime-pink'
                   }
                 >
                   Contact
                 </NavLink>
               </li>
               <li>
+                <NavLink
+                  to="/cart"
+                  className={({ isActive }) =>
+                    isActive ? 'text-anime-pink underline' : 'hover:text-anime-pink'
+                  }
+                >
+                  Cart ({cartItemCount})
+                </NavLink>
+              </li>
+              <li>
                 {user ? (
                   <div className="flex space-x-2">
-                    <span className="text-gray-300">Hi, {user.email}</span>
+                    <span className="text-anime-teal">Hi, {user.email}</span>
                     <button
                       onClick={handleLogout}
-                      className="hover:text-blue-400"
+                      className="hover:text-anime-pink"
                     >
                       Logout
                     </button>
@@ -82,7 +96,7 @@ function Header() {
                 ) : (
                   <button
                     onClick={() => setIsLoginOpen(true)}
-                    className="hover:text-blue-400"
+                    className="hover:text-anime-pink"
                   >
                     Login
                   </button>

@@ -24,7 +24,7 @@ function StreamingPage() {
   }, []);
 
   if (loading) {
-    return <div className="text-center py-8">Loading...</div>;
+    return <div className="text-center py-8 text-white">Loading...</div>;
   }
 
   if (error) {
@@ -33,15 +33,17 @@ function StreamingPage() {
 
   return (
     <section className="container mx-auto py-8">
-      <h2 className="text-3xl font-bold mb-6 text-center">Streaming Recommendations</h2>
-      <div className="space-y-4">
-        {platforms.length > 0 ? (
-          platforms.map((platform) => (
-            <StreamingLink key={platform.id} platform={platform} />
-          ))
-        ) : (
-          <p className="text-center">No streaming platforms available.</p>
-        )}
+      <div className="bg-white bg-opacity-80 p-6 rounded-lg shadow-lg">
+        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">Streaming Recommendations</h2>
+        <div className="space-y-4">
+          {platforms.length > 0 ? (
+            platforms.map((platform) => (
+              <StreamingLink key={platform.id} platform={platform} />
+            ))
+          ) : (
+            <p className="text-center text-gray-600">No streaming platforms available.</p>
+          )}
+        </div>
       </div>
     </section>
   );

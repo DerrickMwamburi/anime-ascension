@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Naruto T-Shirt",
       "price": 20,
-      "image": "https://via.placeholder.com/300x200?text=Naruto+T-Shirt",
+      "image": "https://www.ripplejunction.com/media/catalog/product/Preview/NS/NSAS4599_BLACK_FRONT-AND-BACK.jpg?width=700&height=700&store=default&image-type=image",
       "description": "Official Naruto Uzumaki tee.",
       "category": "Shirts"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Attack on Titan Manga",
       "price": 15,
-      "image": "https://via.placeholder.com/300x200?text=AOT+Manga",
+      "image": "https://theidiotsstore.in/wp-content/uploads/2023/08/Demon-slayer-samurai-oversize-tshirt-lightpink.jpg",
       "description": "Volume 1 of Attack on Titan.",
       "category": "Manga"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Demon Slayer T-Shirt",
       "price": 22,
-      "image": "https://via.placeholder.com/300x200?text=Demon+Slayer+T-Shirt",
+      "image": "https://theidiotsstore.in/wp-content/uploads/2023/08/Demon-slayer-samurai-oversize-tshirt-lightpink.jpg",
       "description": "Tanjiro Kamado graphic tee.",
       "category": "Shirts"
     }

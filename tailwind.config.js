@@ -5,9 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'anime-purple': '#6B5B95',
+        'anime-blue': '#88B7D5',
+        'anime-pink': '#FF9AA2',
+        'anime-teal': '#C3E8D1',
+      },
+    },
   },
-  plugins: [
-    require('@tailwindcss/forms'),
-  ],
+  plugins: [],
 }
