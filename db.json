@@ -170,20 +170,6 @@
       "url": "https://www.hbomax.com",
       "description": "Watch anime series and movies on HBO Max.",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg"
-    },
-    {
-      "id": 7,
-      "name": "HiDive",
-      "url": "https://www.hidive.com",
-      "description": "Stream anime series and movies on HiDive.",
-      "logo": "https://https://logos.fandom.com/wiki/HIDIVE?file=HIDIVE_2017.svg"
-    },
-    {
-      "id": 8,
-      "name": "VRV",
-      "url": "https://vrv.co",
-      "description": "Watch anime and more on VRV.",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/VRV_logo_black.svg/revision/latest?cb=20181231222524"
     }
   ],
   "inquiries": []
