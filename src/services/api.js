@@ -1,10 +1,7 @@
 import { getAuth } from 'firebase/auth';
-const cors = require('cors');
-const express = require('express');
-const app = express();
 
-const API_BASE_URL = '/api';
-app.use(cors()); // Allow requests from any origin
+// Use localhost for development, update to hosted URL after deployment
+const API_BASE_URL = 'https://anime-ascension.onrender.com';
 
 export const getProducts = async () => {
   try {
