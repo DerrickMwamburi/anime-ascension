@@ -14,11 +14,11 @@ function CartPage() {
           <div className="text-center">
             <p className="text-gray-600">Your cart is empty.</p>
             <Link
-                 to="/merch"
-                className="mt-4 inline-block bg-anime-blue text-white py-2 px-4 rounded hover:bg-anime-pink transition"
->
-  Shop Now
-</Link>
+              to="/merch"
+              className="mt-4 inline-block bg-anime-blue text-white py-2 px-4 rounded hover:bg-anime-pink transition"
+            >
+              Shop Now
+            </Link>
           </div>
         ) : (
           <div className="space-y-4">
@@ -35,7 +35,7 @@ function CartPage() {
                   />
                   <div>
                     <h3 className="text-lg font-semibold text-gray-800">{item.name}</h3>
-                    <p className="text-gray-600">${item.price} each</p>
+                    <p className="text-gray-600">KSh {item.price.toLocaleString()} each</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-2">
@@ -62,9 +62,11 @@ function CartPage() {
               </div>
             ))}
             <div className="text-right mt-4">
-              <p className="text-lg font-semibold text-gray-800">Total: ${totalPrice.toFixed(2)}</p>
-               <button className="mt-2 bg-anime-blue text-white py-2 px-4 rounded hover:bg-anime-pink transition">
-               Checkout (Coming Soon)
+              <p className="text-lg font-semibold text-gray-800">
+                Total: KSh {totalPrice.toLocaleString()}
+              </p>
+              <button className="mt-2 bg-anime-blue text-white py-2 px-4 rounded hover:bg-anime-pink transition">
+                Checkout (Coming Soon)
               </button>
             </div>
           </div>

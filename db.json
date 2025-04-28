@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Naruto T-Shirt",
       "description": "A cool Naruto-themed T-shirt",
-      "price": 19.99,
+      "price": 2400,
       "image": "https://razieldesigns.co.za/cdn/shop/files/NarutoThemedT-Shirt.png?v=1708198697",
       "category": "Anime Shirts"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Demon Slayer T-Shirt",
       "description": "T-shirt featuring Tanjiro from Demon Slayer",
-      "price": 19.99,
+      "price": 2300,
       "image": "https://nairobiotakushop.co.ke/wp-content/uploads/2020/10/Demon-Slayer-Logo-tee-510x647.png",
       "category": "Anime Shirts"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Attack on Titan Manga",
       "description": "Volume 1 of Attack on Titan manga",
-      "price": 9.99,
+      "price": 960,
       "image": "https://bci.kinokuniya.com/us/jsp/images/book-img/97816/97816465/9781646519248.jpg",
       "category": "Manga Volumes"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Luffy Action Figure",
       "description": "Action figure of Luffy from One Piece",
-      "price": 29.99,
+      "price": 800,
       "image": "https://images.bigbadtoystore.com/images/p/full/2024/09/92b6eb0e-491c-47d1-b02b-56dd8dbe6227.jpg",
       "category": "Action Figures"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Sailor Moon Cosplay Costume",
       "description": "Cosplay costume of Sailor Moon",
-      "price": 49.99,
+      "price": 1000,
       "image":"https://cossky.com/cdn/shop/files/DFAF153C-8990-46d9-8FC6-A658E1BF137F.png?v=1723536095",
       "category": "Cosplay Costumes"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "My Hero Academia Hoodie",
       "description": "A cozy hoodie featuring Deku",
-      "price": 39.99,
+      "price": 3500,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpGZf6QQyGp8oU0Gb64saCt5KR0MS8FH1xg&s",
       "category": "Anime Hoodies"
     },
@@ -52,14 +52,14 @@
       "id": 7,
       "name": "Jujutsu Kaisen Poster",
       "description": "Poster of Gojo Satoru",
-      "price": 12.99,
+      "price": 600,
       "image": "https://i.etsystatic.com/50201722/r/il/84cb33/5907171002/il_fullxfull.5907171002_i0vf.jpg",
       "category": "Posters"
     },
      {"id": 8,
      "name": "Tokyo Ghoul Mask",
       "description": "Kaneki's mask from Tokyo Ghoul",
-      "price": 24.99,
+      "price": 600,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFlNM92E3GKLHrFKN2PrnfQW6DlWDnsQlDw&s",
       "category": "Masks"
     },
@@ -67,7 +67,7 @@
       "id": 9,
       "name": "One Piece Mug",
       "description": "Mug featuring the Straw Hat Pirates",
-      "price": 14.99,
+      "price": 345,
       "image": "https://www.nerdom.gr/storage/i3commerce/images/m/u/mug_one_piece_red_shanks.jpg",
       "category": "Mugs"
     },
@@ -75,7 +75,7 @@
       "id": 10,
       "name": "Dragon Ball Z Keychain",
       "description": "Keychain of Goku's Dragon Ball",
-      "price": 5.99,
+      "price": 100,
       "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/key-chain/k/f/p/dragon-ball-z-goku-3d-keychain-strap-charm-hook-pvc-anime-original-imagjybhnud3zuz7.jpeg?q=20&crop=false",
       "category": "Keychains"
     },
@@ -83,7 +83,7 @@
       "id": 11,
       "name": "Naruto Headband",
       "description": "Headband from the Hidden Leaf Village",
-      "price": 15.99,
+      "price": 300,
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HblsqFS%2BL._SS400_.jpg",
       "category": "Accessories"
     },
@@ -91,7 +91,7 @@
       "id": 12,
       "name": "Bleach Wall Scroll",
       "description": "Wall scroll featuring Ichigo Kurosaki",
-      "price": 19.99,
+      "price": 1250,
       "image": "https://ae01.alicdn.com/kf/S8a63c92fc09e4175b8244c38c948b373J.jpg",
       "category": "Wall Scrolls"
     },
@@ -99,7 +99,7 @@
       "id": 13,
       "name": "Sword Art Online Blu-ray",
       "description": "Blu-ray of Sword Art Online Season 1",
-      "price": 29.99,
+      "price": 2000,
       "image":" https://www.swordart-onlineusa.com/sao1/package/img/SAO-DVD-O-Sleeve-V1.jpg",
       "category": "Blu-rays"
     },
@@ -107,7 +107,7 @@
       "id": 14,
       "name": "Death Note Notebook",
       "description": "Notebook inspired by Death Note",
-      "price": 8.99,
+      "price": 750,
       "image": "https://m.media-amazon.com/images/I/611LTHc8LML.jpg",
       "category": "Stationery"
     },
@@ -115,7 +115,7 @@
       "id": 15,
       "name": "Fullmetal Alchemist Poster",
       "description": "Poster of Edward and Alphonse Elric",
-      "price": 12.99,
+      "price": 500,
       "image": "https://weebshop.in/cdn/shop/files/Edward-and-Alphonse-Elric-Poster-Full-Metal-Alchemist-3.jpg?v=1690201233&width=1946",
       "category": "Posters"
     },
@@ -123,7 +123,7 @@
       "id": 16,
       "name": "Hunter x Hunter Manga",
       "description": "Volume 1 of Hunter x Hunter manga",
-      "price": 9.99,
+      "price": 1000,
       "image": "https://media.takealot.com/covers_tsins/1992505/7c993b3aec3992eb8501185f6e45451d-pdpxl.jpg",
       "category": "Manga Volumes"
     }
