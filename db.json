@@ -134,7 +134,7 @@
       "name": "Crunchyroll",
       "url": "https://www.crunchyroll.com",
       "description": "Stream the latest anime episodes and movies.",
-      "logo": "https://https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg"
     },
     {
       "id": 2,
@@ -162,7 +162,7 @@
       "name": "Amazon Prime Video",
       "url": "https://www.primevideo.com",
       "description": "Stream anime on Prime Video.",
-      "logo": "https://https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg"
     },
     {
       "id": 6,
@@ -183,7 +183,7 @@
       "name": "VRV",
       "url": "https://vrv.co",
       "description": "Watch anime and more on VRV.",
-      "logo": "https://https://static.wikia.nocookie.net/logopedia/images/1/1a/VRV_logo_black.svg/revision/latest?cb=20181231222524"
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/VRV_logo_black.svg/revision/latest?cb=20181231222524"
     }
   ],
   "inquiries": []
