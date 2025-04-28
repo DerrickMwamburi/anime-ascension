@@ -11,12 +11,10 @@
     "server": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
-    "@netlify/blobs": "^8.2.0",
-    "@supabase/supabase-js": "^2.49.4",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.10",
     "autoprefixer": "^10.4.21",
     "firebase": "^11.6.0",
-    "firestore": "^1.1.6",
     "json-server": "^1.0.0-beta.3",
     "postcss": "^8.5.3",
     "react": "^19.0.0",

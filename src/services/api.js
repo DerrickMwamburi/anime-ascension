@@ -1,6 +1,7 @@
 import { getAuth } from 'firebase/auth';
 
-const API_BASE_URL = '/.netlify/functions';
+// Use localhost for development, update to hosted URL after deployment
+const API_BASE_URL = 'http://localhost:3000';
 
 export const getProducts = async () => {
   try {
