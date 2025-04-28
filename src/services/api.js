@@ -1,7 +1,10 @@
 import { getAuth } from 'firebase/auth';
+const cors = require('cors');
+const express = require('express');
+const app = express();
 
-// Use localhost for development, update to hosted URL after deployment
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = '/api';
+app.use(cors()); // Allow requests from any origin
 
 export const getProducts = async () => {
   try {

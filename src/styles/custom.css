@@ -11,3 +11,11 @@ body {
   a.bg-blue-600:hover {
     box-shadow: 0 0 10px rgba(37, 99, 235, 0.7);
   }
+
+.shared-background {
+  background-image: url(${backgroundImage});
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
