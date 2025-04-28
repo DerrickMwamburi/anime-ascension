@@ -126,7 +126,129 @@
       "price": 1000,
       "image": "https://media.takealot.com/covers_tsins/1992505/7c993b3aec3992eb8501185f6e45451d-pdpxl.jpg",
       "category": "Manga Volumes"
-    }
+    },
+    [
+      {
+        "id": "17",
+        "name": "One Piece T-Shirt",
+        "description": "T-shirt featuring the Straw Hat Pirates logo",
+        "price": 2500,
+        "image": "https://m.media-amazon.com/images/I/81zySxfKQrL._AC_UY1000_.jpg",
+        "category": "Anime Shirts"
+      },
+      {
+        "id": "18",
+        "name": "My Hero Academia T-Shirt",
+        "description": "Shirt with All Might's iconic smile design",
+        "price": 2200,
+        "image": "https://res.cloudinary.com/teepublic/image/private/s--aWXAaVbW--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,h_626/c_crop,g_north_west,h_626,w_470,x_-10,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-405,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_313,q_auto:good:420,w_313/v1732027055/production/designs/68609401_0",
+        "category": "Anime Shirts"
+      },
+      {
+        "id": "19",
+        "name": "Jujutsu Kaisen Hoodie",
+        "description": "Black hoodie with Sukuna's cursed markings",
+        "price": 3800,
+        "image": "https://cdn.animebape.com/wp-content/uploads/2024/09/sukuna-jujutsu-kaisen-zip-hoodie-jacket-qkg5d.jpg",
+        "category": "Anime Hoodies"
+      },
+      {
+        "id": "20",
+        "name": "Dragon Ball Z Manga",
+        "description": "Volume 1 of Dragon Ball Z manga",
+        "price": 900,
+        "image": "https://m.media-amazon.com/images/I/81Dy6cNM7yL.jpg",
+        "category": "Manga Volumes"
+      },
+      {
+        "id": "21",
+        "name": "Naruto Shippuden Manga",
+        "description": "Volume 1 of Naruto Shippuden series",
+        "price": 950,
+        "image": "https://m.media-amazon.com/images/I/91RpwagB7uL.jpg",
+        "category": "Manga Volumes"
+      },
+      {
+        "id": "22",
+        "name": "Goku Action Figure",
+        "description": "Super Saiyan Goku figurine with detachable base",
+        "price": 1200,
+        "image": "data:image/jpeg;base64,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",
+        "category": "Action Figures"
+      },
+      {
+        "id": "23",
+        "name": "Tanjiro Cosplay Costume",
+        "description": "Complete Demon Slayer uniform with Nichirin sword replica",
+        "price": 4500,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51JkSj9i6lL._UL500_.jpg",
+        "category": "Cosplay Costumes"
+      },
+      {
+        "id": "24",
+        "name": "Attack on Titan Poster",
+        "description": "Poster of Levi Ackerman in battle stance",
+        "price": 550,
+        "image": "https://wallpapers.com/images/hd/captain-levi-ackerman-attack-on-titan-txav641q0f9nfsyl.jpg",
+        "category": "Posters"
+      },
+      {
+        "id": "25",
+        "name": "Demon Slayer Mask",
+        "description": "Tengen Uzui's flashy ninja mask replica",
+        "price": 700,
+        "image": "https://m.media-amazon.com/images/I/41k3Q0mA4OL._AC_UF894,1000_QL80_.jpg",
+        "category": "Masks"
+      },
+      {
+        "id": "26",
+        "name": "Studio Ghibli Mug",
+        "description": "Porcelain mug with No-Face from Spirited Away",
+        "price": 400,
+        "image": "https://bungu.store/cdn/shop/files/spirited-away-shigarayaki-no-face-cup-meizan-togyo-bungu-911958.jpg?v=1728375106&width=1214",
+        "category": "Mugs"
+      },
+      {
+        "id": "27",
+        "name": "Sasuke Keychain",
+        "description": "Metal keychain of Sasuke's Sharingan eye",
+        "price": 150,
+        "image": "https://images.cults3d.com/97VjlbrRPaABJ8eW7LsxK6NUdg0=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/17871626/illustration-file/40fc2483-224e-4da9-8952-449b95c987da/Sharingan-1.jpg",
+        "category": "Keychains"
+      },
+      {
+        "id": "28",
+        "name": "One Piece Straw Hat",
+        "description": "Replica of Luffy's iconic straw hat",
+        "price": 1800,
+        "image": "https://www.merchoid.com/media/mf_webp/jpeg/media/catalog/product/cache/bfcb5e98c93238c53d4013e78676b669/o/n/onepiece_luffy_strawhat_9.webp",
+        "category": "Accessories"
+      },
+      {
+        "id": "29",
+        "name": "Demon Slayer Wall Scroll",
+        "description": "Scroll featuring the Hashira lineup",
+        "price": 1500,
+        "image": "https://down-ph.img.susercontent.com/file/3f30a3dc4b10d321ce1059654fb75cde",
+        "category": "Wall Scrolls"
+      },
+      {
+        "id": "30",
+        "name": "Death Note Blu-ray",
+        "description": "Complete series Blu-ray boxset",
+        "price": 3500,
+        "image": "https://www.nerdom.gr/storage/i3commerce/images/d/e/death_note_complete_series_2.jpg",
+        "category": "Blu-rays"
+      },
+      {
+        "id": "31",
+        "name": "Naruto Kunai Notebook",
+        "description": "Notebook with hidden leaf village kunai design",
+        "price": 600,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/diary-notebook/o/r/q/naruto-anime-minato-namikaze-with-kunai-naruto-anime-minato-original-imagtz2bg4a7s7bc.jpeg?q=90&crop=false",
+        "category": "Stationery"
+      }
+    ]
   ],
   "streaming_platforms": [
     {
