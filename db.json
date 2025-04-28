@@ -133,31 +133,57 @@
       "id": 1,
       "name": "Crunchyroll",
       "url": "https://www.crunchyroll.com",
-      "description": "Stream the latest anime episodes and movies."
+      "description": "Stream the latest anime episodes and movies.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Crunchyroll_Logo.png"
     },
     {
       "id": 2,
       "name": "Funimation",
       "url": "https://www.funimation.com",
-      "description": "Watch dubbed and subbed anime series."
-    },
+      "description": "Watch dubbed and subbed anime series.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Funimation_logo.svg"
+  },
     {
       "id": 3,
       "name": "Netflix",
       "url": "https://www.netflix.com",
-      "description": "Popular anime series and movies available."
+      "description": "Popular anime series and movies available.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
     },
     {
       "id": 4,
       "name": "Hulu",
       "url": "https://www.hulu.com",
-      "description": "Watch anime series and movies on Hulu."
+      "description": "Watch anime series and movies on Hulu.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hulu_logo_%282014%29.svg"
     },
     {
       "id": 5,
       "name": "Amazon Prime Video",
       "url": "https://www.primevideo.com",
-      "description": "Stream anime on Prime Video."
+      "description": "Stream anime on Prime Video.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Amazon_Prime_Video_logo.svg"
+    },
+    {
+      "id": 6,
+      "name": "HBO Max",
+      "url": "https://www.hbomax.com",
+      "description": "Watch anime series and movies on HBO Max.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/HBO_Max_logo.svg"
+    },
+    {
+      "id": 7,
+      "name": "HiDive",
+      "url": "https://www.hidive.com",
+      "description": "Stream anime series and movies on HiDive.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/HiDive_Logo.png"
+    },
+    {
+      "id": 8,
+      "name": "VRV",
+      "url": "https://vrv.co",
+      "description": "Watch anime and more on VRV.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/VRV_logo.svg"
     }
   ],
   "inquiries": []
