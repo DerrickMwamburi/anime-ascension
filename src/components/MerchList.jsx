@@ -44,7 +44,16 @@ function MerchList() {
     Manga: 'Manga Volumes',
     Figures: 'Action Figures',
     Costumes: 'Cosplay Costumes',
-    Other: 'Miscellaneous',
+    Hoodies: 'Anime Hoodies',
+    Accessories: 'Anime Accessories',
+    Posters: 'Posters',
+    Masks: 'Masks',
+    Mugs: 'Mugs',
+    KeyChains: 'Keychains',
+    WallScrolls: 'Wall Scrolls',
+    Accesories: 'Accessories',
+    Stationery: 'Stationery',
+    Blurays: 'Blu-rays',
   };
 
   return (
