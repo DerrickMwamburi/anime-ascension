@@ -143,6 +143,102 @@
       "price": 2200,
       "image": "https://res.cloudinary.com/teepublic/image/private/s--aWXAaVbW--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,h_626/c_crop,g_north_west,h_626,w_470,x_-10,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-405,y_-325/b_rgb:eeeeee/c_limit,f_auto,h_313,q_auto:good:420,w_313/v1732027055/production/designs/68609401_0",
       "category": "Anime Shirts"
+    },
+    {
+      "id": 19,
+      "name": "Dragon Ball Z Manga",
+      "description": "Volume 1 of Dragon Ball Z manga",
+      "price": 900,
+      "image": "https://m.media-amazon.com/images/I/81Dy6cNM7yL.jpg",
+      "category": "Manga Volumes"
+    },
+    {
+      "id": 20,
+      "name": "Naruto Shippuden Manga",
+      "description": "Volume 1 of Naruto Shippuden series",
+      "price": 950,
+      "image": "https://m.media-amazon.com/images/I/91RpwagB7uL.jpg",
+      "category": "Manga Volumes"
+    },
+    {
+      "id": 21,
+      "name": "Goku Action Figure",
+      "description": "Super Saiyan Goku figurine with detachable base",
+      "price": 1200,
+      "image": "https://bearhugs.in/cdn/shop/files/buy-dragon-ball-z-ultra-instinct-goku-action-figure-33-cm-at-bear-hugs-66830.webp?v=1743407969",
+      "category": "Action Figures"
+    },
+    {
+      "id": 22,
+      "name": "Tanjiro Cosplay Costume",
+      "description": "Complete Demon Slayer uniform with Nichirin sword replica",
+      "price": 4500,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JkSj9i6lL._UL500_.jpg",
+      "category": "Cosplay Costumes"
+    },
+    {
+      "id": 23,
+      "name": "Attack on Titan Poster",
+      "description": "Poster of Levi Ackerman in battle stance",
+      "price": 550,
+      "image": "https://wallpapers.com/images/hd/captain-levi-ackerman-attack-on-titan-txav641q0f9nfsyl.jpg",
+      "category": "Posters"
+    },
+    {
+      "id": 24,
+      "name": "Demon Slayer Mask",
+      "description": "Tengen Uzui's flashy ninja mask replica",
+      "price": 700,
+      "image": "https://m.media-amazon.com/images/I/41k3Q0mA4OL._AC_UF894,1000_QL80_.jpg",
+      "category": "Masks"
+    },
+    {
+      "id": 25,
+      "name": "Studio Ghibli Mug",
+      "description": "Porcelain mug with No-Face from Spirited Away",
+      "price": 400,
+      "image": "https://bungu.store/cdn/shop/files/spirited-away-shigarayaki-no-face-cup-meizan-togyo-bungu-911958.jpg?v=1728375106&width=1214",
+      "category": "Mugs"
+    },
+    {
+      "id": 26,
+      "name": "Sasuke Keychain",
+      "description": "Metal keychain of Sasuke's Sharingan eye",
+      "price": 150,
+      "image": "https://images.cults3d.com/97VjlbrRPaABJ8eW7LsxK6NUdg0=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/17871626/illustration-file/40fc2483-224e-4da9-8952-449b95c987da/Sharingan-1.jpg",
+      "category": "Keychains"
+    },
+    {
+      "id": 27,
+      "name": "One Piece Straw Hat",
+      "description": "Replica of Luffy's iconic straw hat",
+      "price": 1800,
+      "image": "https://www.merchoid.com/media/mf_webp/jpeg/media/catalog/product/cache/bfcb5e98c93238c53d4013e78676b669/o/n/onepiece_luffy_strawhat_9.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": 28,
+      "name": "Demon Slayer Wall Scroll",
+      "description": "Scroll featuring the Hashira lineup",
+      "price": 1500,
+      "image": "https://down-ph.img.susercontent.com/file/3f30a3dc4b10d321ce1059654fb75cde",
+      "category": "Wall Scrolls"
+    },
+    {
+      "id": 29,
+      "name": "Death Note Blu-ray",
+      "description": "Complete series Blu-ray boxset",
+      "price": 3500,
+      "image": "https://www.nerdom.gr/storage/i3commerce/images/d/e/death_note_complete_series_2.jpg",
+      "category": "Blu-rays"
+    },
+    {
+      "id": 30,
+      "name": "Naruto Kunai Notebook",
+      "description": "Notebook with hidden leaf village kunai design",
+      "price": 600,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/diary-notebook/o/r/q/naruto-anime-minato-namikaze-with-kunai-naruto-anime-minato-original-imagtz2bg4a7s7bc.jpeg?q=90&crop=false",
+      "category": "Stationery"
     }
   ],
   "streaming_platforms": [
