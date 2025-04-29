@@ -54,6 +54,7 @@ function MerchList() {
     Accesories: 'Accessories',
     Stationery: 'Stationery',
     Blurays: 'Blu-rays',
+    Other: 'Miscellaneous',
   };
 
   return (
