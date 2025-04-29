@@ -239,6 +239,262 @@
       "price": 600,
       "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/diary-notebook/o/r/q/naruto-anime-minato-namikaze-with-kunai-naruto-anime-minato-original-imagtz2bg4a7s7bc.jpeg?q=90&crop=false",
       "category": "Stationery"
+    },
+    {
+      "id": 31,
+      "name": "My Hero Academia Notebook",
+      "description": "Notebook featuring Class 1-A heroes",
+      "price": 650,
+      "image": "https://m.media-amazon.com/images/I/71wDOrVsesL.jpg",
+      "category": "Stationery"
+    },
+    {
+      "id": 32,
+      "name": "Attack on Titan Journal",
+      "description": "Hardcover journal with Survey Corps emblem",
+      "price": 800,
+      "image": "https://i.ebayimg.com/images/g/KtQAAOSwzD9lWw83/s-l1200.jpg",
+      "category": "Stationery"
+    },
+    {
+      "id": 33,
+      "name": "Demon Slayer Pen Set",
+      "description": "Set of 4 pens with Hashira-themed designs",
+      "price": 450,
+      "image": "https://img.joomcdn.net/047a3308382072c09eb346b73aa7fb39902af58a_original.jpeg",
+      "category": "Stationery"
+    },
+    {
+      "id": 34,
+      "name": "One Piece Sticky Notes",
+      "description": "Sticky notes with Straw Hat Pirates designs",
+      "price": 300,
+      "image": "https://ae01.alicdn.com/kf/S858fb5f9aa4a47a19482992bd5483429u.jpg_640x640q90.jpg",
+      "category": "Stationery"
+    },
+    {
+      "id": 35,
+      "name": "Jujutsu Kaisen Planner",
+      "description": "Weekly planner with Gojo and Sukuna artwork",
+      "price": 1000,
+      "image": "https://i.etsystatic.com/50193762/r/il/39f5f6/6409351269/il_570xN.6409351269_kfb5.jpg",
+      "category": "Stationery"
+    },
+    {
+      "id": 36,
+      "name": "Jujutsu Kaisen T-Shirt",
+      "description": "T-shirt featuring Gojo Satoru's blindfold design",
+      "price": 2400,
+      "image": "https://cdn.animebape.com/wp-content/uploads/2024/10/jujutsu-kaisen-mysterious-gojo-graphic-t-shirt-i5x6z.jpg",
+      "category": "Anime Shirts"
+    },
+    {
+      "id": 37,
+      "name": "Hunter x Hunter T-Shirt",
+      "description": "Shirt with Gon and Killua duo graphic",
+      "price": 2300,
+      "image": "https://animeape.com/wp-content/uploads/2021/10/Power-Duo-Gon-Killua-Hunter-X-Hunter_T-Shirt-3D-BACK_Mockup.jpg",
+      "category": "Anime Shirts"
+    },
+    {
+      "id": 38,
+      "name": "Fullmetal Alchemist T-Shirt",
+      "description": "T-shirt with Elric brothers and transmutation circle",
+      "price": 2500,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61qY1tyNlKL._SLDPMOBCAROUSELAUTOCROP288221_MCnd_AC_SR462,693_.jpg",
+      "category": "Anime Shirts"
+    },
+    {
+      "id": 39,
+      "name": "Tokyo Ghoul T-Shirt",
+      "description": "Shirt featuring Kaneki's mask and kagune",
+      "price": 2200,
+      "image": "https://i.etsystatic.com/43913091/r/il/1d7a08/5186176648/il_340x270.5186176648_o27h.jpg",
+      "category": "Anime Shirts"
+    },
+    {
+      "id": 40,
+      "name": "Dragon Ball Z T-Shirt",
+      "description": "T-shirt with Super Saiyan Goku silhouette",
+      "price": 2600,
+      "image": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/2/images/artworkimages/medium/3/dragon-ball-z--dbz-super-saiyan--goku-lassio-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=575&modelwidth=430&modelheight=575",
+      "category": "Anime Shirts"
+    },
+    {
+      "id": 41,
+      "name": "One Piece Manga",
+      "description": "Volume 1 of One Piece manga",
+      "price": 980,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/One_Piece%2C_Volume_1.jpg/250px-One_Piece%2C_Volume_1.jpg",
+      "category": "Manga Volumes"
+    },
+    {
+      "id": 42,
+      "name": "Jujutsu Kaisen Manga",
+      "description": "Volume 1 of Jujutsu Kaisen manga",
+      "price": 950,
+      "image": "https://bookstop.co.ke/media/catalog/product/cache/a7f8e79ae9a44ba55f400798fdf830fb/8/1/81tmhlrlejl._sy425_.jpg",
+      "category": "Manga Volumes"
+    },
+    {
+      "id": 43,
+      "name": "Zoro Action Figure",
+      "description": "Action figure of Roronoa Zoro with swords",
+      "price": 900,
+      "image": "https://onepiece.store/wp-content/uploads/2023/09/Anime-One-Piece-21CM-Roronoa-Dream-Zoro-Figure-Collectible-Figurine-Model-Cartoon-Children-Kids-Boy-Toy.jpg",
+      "category": "Action Figures"
+    },
+    {
+      "id": 44,
+      "name": "Nezuko Action Figure",
+      "description": "Nezuko Kamado figure in demon form",
+      "price": 850,
+      "image": "https://i.ebayimg.com/images/g/aEsAAOSwf4lkDtnc/s-l400.jpg",
+      "category": "Action Figures"
+    },
+    {
+      "id": 45,
+      "name": "Asuna Cosplay Costume",
+      "description": "Sword Art Online Asuna's Knights of the Blood uniform",
+      "price": 4200,
+      "image": "https://m.media-amazon.com/images/I/61LY21wcOgL._AC_UY1000_.jpg",
+      "category": "Cosplay Costumes"
+    },
+    {
+      "id": 46,
+      "name": "Levi Cosplay Costume",
+      "description": "Attack on Titan Levi's Survey Corps uniform",
+      "price": 4800,
+      "image": "https://i.ebayimg.com/00/s/Nzk3WDc5OA==/z/7MUAAOSwcftm0Sz0/$_57.PNG?set_id=880000500F",
+      "category": "Cosplay Costumes"
+    },
+    {
+      "id": 47,
+      "name": "Attack on Titan Hoodie",
+      "description": "Hoodie with Wings of Freedom emblem",
+      "price": 3600,
+      "image": "https://m.media-amazon.com/images/I/41IPg7tIsqL._AC_UY1000_.jpg",
+      "category": "Anime Hoodies"
+    },
+    {
+      "id": 48,
+      "name": "Dragon Ball Z Hoodie",
+      "description": "Hoodie featuring Goku's Kame symbol",
+      "price": 3400,
+      "image": "https://animeape.com/wp-content/uploads/2021/04/Goku-Dragon-Ball-Z_Zip-Hoodie-FRONT_Mockup.jpg",
+      "category": "Anime Hoodies"
+    },
+    {
+      "id": 49,
+      "name": "One Piece Poster",
+      "description": "Poster of the Going Merry ship",
+      "price": 600,
+      "image": "https://m.media-amazon.com/images/I/71C6IDA5koL._AC_UF894,1000_QL80_.jpg",
+      "category": "Posters"
+    },
+    {
+      "id": 50,
+      "name": "Hunter x Hunter Poster",
+      "description": "Poster featuring the Phantom Troupe",
+      "price": 550,
+      "image": "https://m.media-amazon.com/images/I/71AoBeSooaL._AC_UF894,1000_QL80_.jpg",
+      "category": "Posters"
+    },
+    {
+      "id": 51,
+      "name": "Nezuko Mask",
+      "description": "Bamboo muzzle mask replica from Demon Slayer",
+      "price": 650,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51PyA-Tn4NL._AC_UL210_SR210,210_.jpg",
+      "category": "Masks"
+    },
+    {
+      "id": 52,
+      "name": "Zero Two Mask",
+      "description": "Darling in the Franxx Zero Two's horned mask",
+      "price": 700,
+      "image": "https://ae01.alicdn.com/kf/H5965964da3494a9288044c189f6b84c8Z.jpg_640x640q90.jpg",
+      "category": "Masks"
+    },
+    {
+      "id": 53,
+      "name": "Attack on Titan Mug",
+      "description": "Mug with Colossal Titan design",
+      "price": 380,
+      "image": "https://static.thcdn.com/images/large/original/productimg/960/960/11143825-2464308577264110.jpg",
+      "category": "Mugs"
+    },
+    {
+      "id": 54,
+      "name": "Naruto Mug",
+      "description": "Ceramic mug with Hidden Leaf Village symbol",
+      "price": 400,
+      "image": "https://i.ebayimg.com/images/g/ClkAAOSwFeNkwnwH/s-l400.jpg",
+      "category": "Mugs"
+    },
+    {
+      "id": 55,
+      "name": "Luffy Keychain",
+      "description": "Keychain of Luffy's straw hat",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/61ZyVFlASuL._AC_UY1000_.jpg",
+      "category": "Keychains"
+    },
+    {
+      "id": 56,
+      "name": "Todoroki Keychain",
+      "description": "My Hero Academia Todoroki fire and ice keychain",
+      "price": 140,
+      "image": "https://m.media-amazon.com/images/I/51t2qLj-yWL.jpg",
+      "category": "Keychains"
+    },
+    {
+      "id": 57,
+      "name": "Demon Slayer Headband",
+      "description": "Tanjiro's green and black checkered headband",
+      "price": 320,
+      "image": "https://target.scene7.com/is/image/Target/GUEST_8eaddb0d-a00a-4814-9708-1f44f35b836c",
+      "category": "Accessories"
+    },
+    {
+      "id": 58,
+      "name": "Sailor Moon Tiara",
+      "description": "Replica of Sailor Moon's golden tiara",
+      "price": 350,
+      "image": "https://ae03.alicdn.com/kf/Sad04855392b24999b0151e16fb00958cI.jpg_640x640q90.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 59,
+      "name": "My Hero Academia Wall Scroll",
+      "description": "Wall scroll featuring UA High School heroes",
+      "price": 1400,
+      "image": "https://m.media-amazon.com/images/I/8155veTca0L._AC_UF894,1000_QL80_.jpg",
+      "category": "Wall Scrolls"
+    },
+    {
+      "id": 60,
+      "name": "Naruto Wall Scroll",
+      "description": "Scroll with Team 7 in action",
+      "price": 1450,
+      "image": "https://i.ebayimg.com/images/g/2PUAAOSwzDtijxnb/s-l1200.jpg",
+      "category": "Wall Scrolls"
+    },
+    {
+      "id": 61,
+      "name": "One Piece Blu-ray",
+      "description": "Blu-ray of One Piece East Blue Saga",
+      "price": 3200,
+      "image": "https://m.media-amazon.com/images/I/8191ULAChUL._AC_UF894,1000_QL80_.jpg",
+      "category": "Blu-rays"
+    },
+    {
+      "id": 62,
+      "name": "Demon Slayer Blu-ray",
+      "description": "Blu-ray of Demon Slayer Season 1",
+      "price": 3400,
+      "image": "https://m.media-amazon.com/images/I/71MJizV2O1L.jpg",
+      "category": "Blu-rays"
     }
   ],
   "streaming_platforms": [
