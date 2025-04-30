@@ -6,7 +6,8 @@ function LandingPage() {
       <div className="bg-white bg-opacity-80 p-8 rounded-lg shadow-lg">
         <h2 className="text-4xl font-bold text-gray-800 mb-4">Welcome to Anime Ascension</h2>
         <p className="text-lg text-gray-600 mb-6">
-          Discover the best anime merch, streaming recommendations, and more!
+        Kenya's gateway to authentic anime culture. Shop exclusive merch, discover 
+        streaming platforms, and join our vibrant community.
         </p>
         <Link
           to="/merch"
